@@ -1,0 +1,1270 @@
+{
+	"events":[
+		{
+			eventID: 0,
+			Vertex: [1.4186, -0.287308, 0.103428],
+			tracks: [ 
+				{
+					trackID: 0,
+					motherID: -1,
+					vertex: [1.4186, -0.287308, 0.103428],
+					PDG: 2212,
+					points: [ 
+						{
+							position: [-5.68773, -5.48734, 16.4235],
+							positionOut: [-5.70024, -5.4966, 16.4526],
+							lengthFromStart: 18.5442,
+							detID: 163,
+							detType: SiliconPoint,
+							tof: 0.636906
+						}
+						,{
+							position: [-8.87923, -7.85795, 23.892],
+							positionOut: [-8.89158, -7.86718, 23.9211],
+							lengthFromStart: 27.0049,
+							detID: 163,
+							detType: SiliconPoint,
+							tof: 0.927494
+						}
+						,{
+							position: [-12.5163, -10.5914, 32.524],
+							positionOut: [-12.5285, -10.6007, 32.5531],
+							lengthFromStart: 36.7626,
+							detID: 163,
+							detType: SiliconPoint,
+							tof: 1.26263
+						}
+						{
+							"position": [-24.0358, -19.4861, 60.76],
+							"positionOut": [-24.3922, -19.7676, 61.6591],
+							"lengthFromStart": 68.5292,
+							"detID": 217,
+							"detType: "StsPoint",
+							"tof": 2.35367
+						}
+						,{
+							"position": [-37.6252, -30.558, 96.342],
+							"positionOut": [-37.9546, -30.8357, 97.2411],
+							"lengthFromStart": 108.196,
+							"detID": 309,
+							"detType: "StsPoint",
+							"tof": 3.71607
+						}
+						,{
+							"position": [-47.292, -38.9145, 123.512],
+							"positionOut": [-47.3846, -38.9967, 123.78],
+							"lengthFromStart": 138.221,
+							"detID": 401,
+							"detType: "StsPoint",
+							"tof": 4.74734
+						}
+					]
+				}
+			]
+		}
+		,{
+			eventID: 1,
+			Vertex: [0.194223, -1.29443, 0.0247486],
+			tracks: [ 
+				{
+					trackID: 0,
+					motherID: -1,
+					vertex: [0.194223, -1.29443, 0.0247486],
+					PDG: 2212,
+					points: [ 
+						{
+							position: [0.114554, -4.60521, 4.20853],
+							positionOut: [0.0997745, -5.22953, 5],
+							lengthFromStart: 6.34406,
+							detID: 152,
+							detType: BdPoint,
+							tof: 0.218719
+						}
+					]
+				}
+			]
+		}
+		,{
+			eventID: 2,
+			Vertex: [0.0953825, -0.771347, 0.124027],
+			tracks: [ 
+				{
+					trackID: 0,
+					motherID: -1,
+					vertex: [0.0953825, -0.771347, 0.124027],
+					PDG: 2212,
+					points: [ 
+						{
+							position: [0.584646, -3.35845, 23.827],
+							positionOut: [0.585419, -3.36163, 23.856],
+							lengthFromStart: 23.8488,
+							detID: 170,
+							detType: SiliconPoint,
+							tof: 0.810494
+						}
+						,{
+							position: [0.815351, -4.29327, 32.344],
+							positionOut: [0.816234, -4.29646, 32.373],
+							lengthFromStart: 32.4201,
+							detID: 170,
+							detType: SiliconPoint,
+							tof: 1.10179
+						}
+						,{
+							position: [1.09232, -5.26679, 41.222],
+							positionOut: [1.09333, -5.26997, 41.251],
+							lengthFromStart: 41.3556,
+							detID: 170,
+							detType: SiliconPoint,
+							tof: 1.40547
+						}
+						{
+							"position": [1.83655, -7.41239, 60.76],
+							"positionOut": [1.8755, -7.51132, 61.659],
+							"lengthFromStart": 61.0252,
+							"detID": 216,
+							"detType: "StsPoint",
+							"tof": 2.07394
+						}
+						,{
+							"position": [3.69566, -11.3149, 96.342],
+							"positionOut": [3.7514, -11.4136, 97.241],
+							"lengthFromStart": 96.8694,
+							"detID": 308,
+							"detType: "StsPoint",
+							"tof": 3.29213
+						}
+						,{
+							"position": [5.5808, -14.304, 123.512],
+							"positionOut": [5.64986, -14.403, 124.411],
+							"lengthFromStart": 124.268,
+							"detID": 400,
+							"detType: "StsPoint",
+							"tof": 4.22331
+						}
+						,{
+							"position": [8.62305, -18.1972, 158.792],
+							"positionOut": [8.70954, -18.2969, 159.691],
+							"lengthFromStart": 159.893,
+							"detID": 492,
+							"detType: "StsPoint",
+							"tof": 5.43406
+						}
+						,{
+							"position": [11.4352, -21.2183, 185.989],
+							"positionOut": [11.5347, -21.3183, 186.888],
+							"lengthFromStart": 187.402,
+							"detID": 585,
+							"detType: "StsPoint",
+							"tof": 6.36898
+						}
+						,{
+							"position": [15.6783, -25.151, 221.387],
+							"positionOut": [15.794, -25.2512, 222.286],
+							"lengthFromStart": 223.27,
+							"detID": 678,
+							"detType: "StsPoint",
+							"tof": 7.58803
+						}
+						,{
+							"position": [19.3038, -28.1665, 248.401],
+							"positionOut": [19.4296, -28.2669, 249.3],
+							"lengthFromStart": 250.693,
+							"detID": 771,
+							"detType: "StsPoint",
+							"tof": 8.52005
+						}
+						{
+							position: [56.5431, -54.5098, 484.83],
+							lengthFromStart: 491.482,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 16.7039
+						}
+						,{
+							position: [56.7357, -54.6431, 486.03],
+							lengthFromStart: 492.705,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 16.7454
+						}
+						,{
+							position: [57.3133, -55.0431, 489.63],
+							lengthFromStart: 496.373,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 16.8701
+						}
+						,{
+							position: [57.5059, -55.1764, 490.83],
+							lengthFromStart: 497.596,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 16.9116
+						}
+						,{
+							position: [58.0836, -55.5765, 494.43],
+							lengthFromStart: 501.264,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 17.0363
+						}
+						,{
+							position: [58.2761, -55.7099, 495.63],
+							lengthFromStart: 502.486,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 17.0778
+						}
+						,{
+							position: [58.8536, -56.1098, 499.23],
+							lengthFromStart: 506.154,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 17.2025
+						}
+						,{
+							position: [59.0461, -56.2431, 500.43],
+							lengthFromStart: 507.377,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 17.2441
+						}
+						,{
+							position: [93.9851, -80.5253, 718.45],
+							lengthFromStart: 729.51,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 24.794
+						}
+						,{
+							position: [94.177, -80.6594, 719.65],
+							lengthFromStart: 730.732,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 24.8356
+						}
+						,{
+							position: [94.7523, -81.062, 723.25],
+							lengthFromStart: 734.4,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 24.9602
+						}
+						,{
+							position: [94.9439, -81.1962, 724.45],
+							lengthFromStart: 735.623,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 25.0018
+						}
+						,{
+							position: [95.5188, -81.5987, 728.05],
+							lengthFromStart: 739.291,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 25.1264
+						}
+						,{
+							position: [95.7105, -81.7329, 729.25],
+							lengthFromStart: 740.513,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 25.168
+						}
+						,{
+							position: [96.2853, -82.1353, 732.85],
+							lengthFromStart: 744.181,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 25.2927
+						}
+						,{
+							position: [96.4769, -82.2694, 734.05],
+							lengthFromStart: 745.404,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 25.3342
+						}
+						{
+							position: [80.7401, -71.263, 635.64],
+							lengthFromStart: 645.137,
+							detID: 14339,
+							detType: TOF700Point,
+							tof: 21.9263
+						}
+					]
+				}
+			]
+		}
+		,{
+			eventID: 3,
+			Vertex: [-0.12803, -0.494305, 0.138358],
+			tracks: [ 
+				{
+					trackID: 0,
+					motherID: -1,
+					vertex: [-0.12803, -0.494305, 0.138358],
+					PDG: 2212,
+					points: [ 
+						{
+							position: [7.54919, 3.95633, 19.3535],
+							positionOut: [7.56136, 3.96309, 19.3826],
+							lengthFromStart: 21.1661,
+							detID: 163,
+							detType: SiliconPoint,
+							tof: 0.874835
+						}
+						,{
+							position: [11.8665, 6.31345, 29.406],
+							positionOut: [11.8793, 6.3203, 29.4351],
+							lengthFromStart: 32.3577,
+							detID: 163,
+							detType: SiliconPoint,
+							tof: 1.33749
+						}
+						,{
+							position: [15.816, 8.37547, 38.1615],
+							positionOut: [15.8295, 8.38234, 38.1906],
+							lengthFromStart: 42.1817,
+							detID: 163,
+							detType: SiliconPoint,
+							tof: 1.74363
+						}
+						,{
+							position: [19.3277, 10.1318, 45.583],
+							positionOut: [19.3418, 10.1387, 45.6121],
+							lengthFromStart: 50.5779,
+							detID: 163,
+							detType: SiliconPoint,
+							tof: 2.09076
+						}
+						{
+							"position": [29.1172, 14.7102, 64.86],
+							"positionOut": [29.5975, 14.9254, 65.7591],
+							"lengthFromStart": 72.6792,
+							"detID": 214,
+							"detType: "StsPoint",
+							"tof": 3.00457
+						}
+						,{
+							"position": [44.8316, 21.3031, 92.242],
+							"positionOut": [45.3861, 21.524, 93.1412],
+							"lengthFromStart": 104.936,
+							"detID": 306,
+							"detType: "StsPoint",
+							"tof": 4.33889
+						}
+						,{
+							"position": [68.6206, 30.3824, 127.612],
+							"positionOut": [69.281, 30.6233, 128.511],
+							"lengthFromStart": 148.529,
+							"detID": 398,
+							"detType: "StsPoint",
+							"tof": 6.1432
+						}
+					]
+				}
+			]
+		}
+		,{
+			eventID: 4,
+			Vertex: [0.778878, -0.907336, 0.147217],
+			tracks: [ 
+				{
+					trackID: 0,
+					motherID: -1,
+					vertex: [0.778878, -0.907336, 0.147217],
+					PDG: 2212,
+					points: [ 
+						{
+							position: [3.00249, 3.58194, 20.5035],
+							positionOut: [3.00584, 3.58835, 20.5325],
+							lengthFromStart: 20.9638,
+							detID: 163,
+							detType: SiliconPoint,
+							tof: 0.715873
+						}
+						,{
+							position: [3.89917, 5.28719, 28.231],
+							positionOut: [3.90264, 5.2936, 28.26],
+							lengthFromStart: 28.9278,
+							detID: 170,
+							detType: SiliconPoint,
+							tof: 0.987834
+						}
+						,{
+							position: [4.94449, 7.19905, 36.8915],
+							positionOut: [4.9481, 7.20546, 36.9205],
+							lengthFromStart: 37.8582,
+							detID: 163,
+							detType: SiliconPoint,
+							tof: 1.2928
+						}
+						,{
+							position: [6.0385, 9.11952, 45.588],
+							positionOut: [6.04227, 9.12593, 45.617],
+							lengthFromStart: 46.8312,
+							detID: 163,
+							detType: SiliconPoint,
+							tof: 1.59921
+						}
+						{
+							"position": [8.61985, 13.3803, 64.86],
+							"positionOut": [8.74559, 13.5794, 65.759],
+							"lengthFromStart": 66.7368,
+							"detID": 214,
+							"detType: "StsPoint",
+							"tof": 2.27896
+						}
+						,{
+							"position": [12.668, 19.4471, 92.242],
+							"positionOut": [12.8083, 19.6466, 93.141],
+							"lengthFromStart": 95.0738,
+							"detID": 306,
+							"detType: "StsPoint",
+							"tof": 3.24664
+						}
+						,{
+							"position": [18.5628, 27.2942, 127.612],
+							"positionOut": [18.7221, 27.4938, 128.511],
+							"lengthFromStart": 131.781,
+							"detID": 398,
+							"detType: "StsPoint",
+							"tof": 4.50018
+						}
+						,{
+							"position": [23.5822, 33.3048, 154.692],
+							"positionOut": [23.7565, 33.5044, 155.591],
+							"lengthFromStart": 159.971,
+							"detID": 490,
+							"detType: "StsPoint",
+							"tof": 5.46286
+						}
+						,{
+							"position": [30.8316, 41.2176, 190.089],
+							"positionOut": [31.0256, 41.4193, 190.988],
+							"lengthFromStart": 196.959,
+							"detID": 583,
+							"detType: "StsPoint",
+							"tof": 6.72605
+						}
+					]
+				}
+				, {
+					trackID: 1,
+					motherID: 0,
+					vertex: [53.0401, 61.8667, 282.507],
+					PDG: 1000260550,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 2,
+					motherID: 0,
+					vertex: [53.0401, 61.8667, 282.507],
+					PDG: 22,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 3,
+					motherID: 0,
+					vertex: [53.0401, 61.8667, 282.507],
+					PDG: 2112,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 4,
+					motherID: 0,
+					vertex: [53.0401, 61.8667, 282.507],
+					PDG: 2112,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 5,
+					motherID: 0,
+					vertex: [53.0401, 61.8667, 282.507],
+					PDG: 2212,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 6,
+					motherID: 0,
+					vertex: [53.0401, 61.8667, 282.507],
+					PDG: 2212,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 7,
+					motherID: 0,
+					vertex: [53.0401, 61.8667, 282.507],
+					PDG: 2212,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 8,
+					motherID: 0,
+					vertex: [53.0401, 61.8667, 282.507],
+					PDG: 2112,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 9,
+					motherID: 0,
+					vertex: [53.0401, 61.8667, 282.507],
+					PDG: 2112,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 10,
+					motherID: 0,
+					vertex: [53.0401, 61.8667, 282.507],
+					PDG: 2112,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 11,
+					motherID: 0,
+					vertex: [53.0401, 61.8667, 282.507],
+					PDG: 111,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 12,
+					motherID: 0,
+					vertex: [53.0401, 61.8667, 282.507],
+					PDG: 2212,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 13,
+					motherID: 12,
+					vertex: [54.1458, 62.5877, 288.042],
+					PDG: 1000280600,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 14,
+					motherID: 12,
+					vertex: [54.1458, 62.5877, 288.042],
+					PDG: 22,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 15,
+					motherID: 12,
+					vertex: [54.1458, 62.5877, 288.042],
+					PDG: 2112,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 16,
+					motherID: 12,
+					vertex: [54.1458, 62.5877, 288.042],
+					PDG: 22,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 17,
+					motherID: 12,
+					vertex: [54.1458, 62.5877, 288.042],
+					PDG: 22,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 18,
+					motherID: 12,
+					vertex: [54.1458, 62.5877, 288.042],
+					PDG: 111,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 19,
+					motherID: 18,
+					vertex: [54.1458, 62.5877, 288.042],
+					PDG: 22,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 20,
+					motherID: 18,
+					vertex: [54.1458, 62.5877, 288.042],
+					PDG: 22,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 21,
+					motherID: 20,
+					vertex: [50.5438, 60.1038, 285.883],
+					PDG: -11,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 22,
+					motherID: 20,
+					vertex: [50.5438, 60.1038, 285.883],
+					PDG: 11,
+					points: [ 
+						,{
+							"position": [27.0055, 36.2201, 253.401],
+							"positionOut": [27.2643, 35.5886, 252.502],
+							"lengthFromStart": 49.6961,
+							"detID": 769,
+							"detType: "StsPoint",
+							"tof": 12.0706
+						}
+						,{
+							"position": [75.2106, 3.93424, 252.501],
+							"positionOut": [75.721, 3.47624, 253.4],
+							"lengthFromStart": 119.671,
+							"detID": 769,
+							"detType: "StsPoint",
+							"tof": 14.4047
+						}
+						,{
+							"position": [-44.203, 43.4305, 252.501],
+							"positionOut": [-44.2613, 44.1421, 253.4],
+							"lengthFromStart": 454.371,
+							"detID": 770,
+							"detType: "StsPoint",
+							"tof": 25.5666
+						}
+						,{
+							"position": [-46.2674, 40.7513, 252.501],
+							"positionOut": [-46.1689, 40.8722, 253.4],
+							"lengthFromStart": 518.728,
+							"detID": 770,
+							"detType: "StsPoint",
+							"tof": 27.7126
+						}
+					]
+				}
+				, {
+					trackID: 23,
+					motherID: 12,
+					vertex: [54.1458, 62.5877, 288.042],
+					PDG: 2212,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 24,
+					motherID: 12,
+					vertex: [54.1458, 62.5877, 288.042],
+					PDG: 2112,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 25,
+					motherID: 12,
+					vertex: [54.1458, 62.5877, 288.042],
+					PDG: 2212,
+					points: [ 
+						{
+							position: [78.4846, 9.31135, 484.83],
+							lengthFromStart: 205.33,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 17.9351
+						}
+						,{
+							position: [78.6363, 8.98859, 486.03],
+							lengthFromStart: 206.582,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 17.982
+						}
+						,{
+							position: [79.0917, 8.02, 489.63],
+							lengthFromStart: 210.337,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 18.1226
+						}
+						,{
+							position: [79.2435, 7.69712, 490.83],
+							lengthFromStart: 211.589,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 18.1695
+						}
+						,{
+							position: [79.6988, 6.72857, 494.43],
+							lengthFromStart: 215.345,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 18.3102
+						}
+						,{
+							position: [79.8506, 6.40581, 495.63],
+							lengthFromStart: 216.597,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 18.357
+						}
+						,{
+							position: [80.3056, 5.43813, 499.23],
+							lengthFromStart: 220.352,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 18.4977
+						}
+						,{
+							position: [80.4573, 5.11576, 500.43],
+							lengthFromStart: 221.604,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 18.5445
+						}
+						,{
+							position: [108.046, -53.9386, 718.45],
+							lengthFromStart: 449.159,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 27.0691
+						}
+						,{
+							position: [108.197, -54.2663, 719.65],
+							lengthFromStart: 450.412,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 27.116
+						}
+						,{
+							position: [108.652, -55.2496, 723.25],
+							lengthFromStart: 454.172,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 27.2569
+						}
+						,{
+							position: [108.803, -55.5772, 724.45],
+							lengthFromStart: 455.425,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 27.3039
+						}
+						,{
+							position: [109.257, -56.5598, 728.05],
+							lengthFromStart: 459.184,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 27.4448
+						}
+						,{
+							position: [109.409, -56.8872, 729.25],
+							lengthFromStart: 460.437,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 27.4917
+						}
+						,{
+							position: [109.864, -57.869, 732.85],
+							lengthFromStart: 464.196,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 27.6326
+						}
+						,{
+							position: [110.016, -58.1962, 734.05],
+							lengthFromStart: 465.449,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 27.6796
+						}
+						{
+							position: [92.6526, -20.7938, 596.84],
+							lengthFromStart: 322.177,
+							detID: 7963,
+							detType: TOF700Point,
+							tof: 22.3105
+						}
+					]
+				}
+				, {
+					trackID: 26,
+					motherID: 12,
+					vertex: [53.8364, 62.386, 286.531],
+					PDG: 11,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 27,
+					motherID: 12,
+					vertex: [53.4822, 62.1507, 284.794],
+					PDG: 11,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 28,
+					motherID: 12,
+					vertex: [53.2281, 61.9857, 283.474],
+					PDG: 11,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 29,
+					motherID: 12,
+					vertex: [53.149, 61.9364, 283.065],
+					PDG: 11,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 30,
+					motherID: 0,
+					vertex: [52.0942, 61.0406, 278.651],
+					PDG: 11,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 31,
+					motherID: 0,
+					vertex: [44.411, 54.3383, 247.858],
+					PDG: 11,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 32,
+					motherID: 0,
+					vertex: [44.2249, 54.1726, 247.127],
+					PDG: 11,
+					points: [ 
+					]
+				}
+				, {
+					trackID: 33,
+					motherID: 0,
+					vertex: [37.2982, 47.6818, 218.754],
+					PDG: 11,
+					points: [ 
+					]
+				}
+			]
+		}
+		,{
+			eventID: 5,
+			Vertex: [0.915689, -0.531535, 0.0337328],
+			tracks: [ 
+				{
+					trackID: 0,
+					motherID: -1,
+					vertex: [0.915689, -0.531535, 0.0337328],
+					PDG: 2212,
+					points: [ 
+						{
+							position: [14.8396, -1.75924, 23.807],
+							positionOut: [14.8572, -1.76076, 23.8361],
+							lengthFromStart: 27.579,
+							detID: 170,
+							detType: SiliconPoint,
+							tof: 0.986436
+						}
+						,{
+							position: [20.7692, -2.26665, 33.534],
+							positionOut: [20.7872, -2.26819, 33.5631],
+							lengthFromStart: 38.9822,
+							detID: 170,
+							detType: SiliconPoint,
+							tof: 1.39434
+						}
+						,{
+							position: [25.5522, -2.6741, 41.217],
+							positionOut: [25.5706, -2.67566, 41.2462],
+							lengthFromStart: 48.0416,
+							detID: 170,
+							detType: SiliconPoint,
+							tof: 1.71841
+						}
+						{
+							"position": [38.1362, -3.74184, 60.76],
+							"positionOut": [38.7304, -3.79263, 61.6592],
+							"lengthFromStart": 71.3106,
+							"detID": 216,
+							"detType: "StsPoint",
+							"tof": 2.55078
+						}
+						,{
+							"position": [62.7128, -5.78226, 96.342],
+							"positionOut": [63.363, -5.8358, 97.2412],
+							"lengthFromStart": 114.607,
+							"detID": 308,
+							"detType: "StsPoint",
+							"tof": 4.09965
+						}
+						,{
+							"position": [82.9865, -7.45591, 123.512],
+							"positionOut": [83.6794, -7.51309, 124.411],
+							"lengthFromStart": 148.549,
+							"detID": 400,
+							"detType: "StsPoint",
+							"tof": 5.31404
+						}
+					]
+				}
+			]
+		}
+		,{
+			eventID: 6,
+			Vertex: [0.972755, -0.0135416, 0.125455],
+			tracks: [ 
+				{
+					trackID: 0,
+					motherID: -1,
+					vertex: [0.972755, -0.0135416, 0.125455],
+					PDG: 2212,
+					points: [ 
+						{
+							position: [0.674448, 3.02883, 20.5035],
+							positionOut: [0.674232, 3.03315, 20.5325],
+							lengthFromStart: 20.6062,
+							detID: 163,
+							detType: SiliconPoint,
+							tof: 0.717849
+						}
+						,{
+							position: [0.630322, 4.35242, 29.401],
+							positionOut: [0.630279, 4.35674, 29.43],
+							lengthFromStart: 29.6017,
+							detID: 170,
+							detType: SiliconPoint,
+							tof: 1.03124
+						}
+						,{
+							position: [0.642761, 5.64831, 38.1315],
+							positionOut: [0.642907, 5.65262, 38.1605],
+							lengthFromStart: 38.4279,
+							detID: 170,
+							detType: SiliconPoint,
+							tof: 1.33874
+						}
+						,{
+							position: [0.710261, 6.92903, 46.773],
+							positionOut: [0.710596, 6.93333, 46.802],
+							lengthFromStart: 47.1641,
+							detID: 170,
+							detType: SiliconPoint,
+							tof: 1.6431
+						}
+						{
+							"position": [1.03534, 9.60931, 64.86],
+							"positionOut": [1.05795, 9.74202, 65.759],
+							"lengthFromStart": 65.4516,
+							"detID": 215,
+							"detType: "StsPoint",
+							"tof": 2.28022
+						}
+						,{
+							"position": [2.01978, 13.6351, 92.242],
+							"positionOut": [2.06275, 13.7667, 93.141],
+							"lengthFromStart": 93.1461,
+							"detID": 307,
+							"detType: "StsPoint",
+							"tof": 3.24511
+						}
+						,{
+							"position": [4.20899, 18.8071, 127.612],
+							"positionOut": [4.27788, 18.9387, 128.511],
+							"lengthFromStart": 128.96,
+							"detID": 398,
+							"detType: "StsPoint",
+							"tof": 4.49292
+						}
+						,{
+							"position": [6.5725, 22.7702, 154.692],
+							"positionOut": [6.6609, 22.9007, 155.591],
+							"lengthFromStart": 156.431,
+							"detID": 490,
+							"detType: "StsPoint",
+							"tof": 5.45008
+						}
+						,{
+							"position": [10.5371, 27.9033, 190.089],
+							"positionOut": [10.6513, 28.0334, 190.988],
+							"lengthFromStart": 192.419,
+							"detID": 583,
+							"detType: "StsPoint",
+							"tof": 6.70401
+						}
+						,{
+							"position": [14.2717, 31.8582, 217.287],
+							"positionOut": [14.4053, 31.9893, 218.186],
+							"lengthFromStart": 220.156,
+							"detID": 676,
+							"detType: "StsPoint",
+							"tof": 7.67058
+						}
+						,{
+							"position": [19.9996, 36.9728, 252.501],
+							"positionOut": [20.1587, 37.1042, 253.4],
+							"lengthFromStart": 256.198,
+							"detID": 769,
+							"detType: "StsPoint",
+							"tof": 8.92662
+						}
+						{
+							position: [68.2224, 70.6359, 484.83],
+							lengthFromStart: 495.865,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 17.2789
+						}
+						,{
+							position: [68.4783, 70.8095, 486.03],
+							lengthFromStart: 497.104,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 17.3221
+						}
+						,{
+							position: [69.2458, 71.3307, 489.63],
+							lengthFromStart: 500.822,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 17.4517
+						}
+						,{
+							position: [69.5016, 71.5043, 490.83],
+							lengthFromStart: 502.061,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 17.4948
+						}
+						,{
+							position: [70.2692, 72.0251, 494.43],
+							lengthFromStart: 505.779,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 17.6244
+						}
+						,{
+							position: [70.5252, 72.1986, 495.63],
+							lengthFromStart: 507.018,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 17.6676
+						}
+						,{
+							position: [71.2933, 72.7191, 499.23],
+							lengthFromStart: 510.735,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 17.7972
+						}
+						,{
+							position: [71.5493, 72.8926, 500.43],
+							lengthFromStart: 511.975,
+							detID: 987,
+							detType: DCHPoint,
+							tof: 17.8403
+						}
+					]
+				}
+			]
+		}
+		,{
+			eventID: 7,
+			Vertex: [0.901496, 0.383822, 0.0105418],
+			tracks: [ 
+				{
+					trackID: 0,
+					motherID: -1,
+					vertex: [0.901496, 0.383822, 0.0105418],
+					PDG: 2212,
+					points: [ 
+						{
+							position: [19.7547, 3.75912, 36.9615],
+							positionOut: [19.77, 3.76179, 36.9906],
+							lengthFromStart: 41.621,
+							detID: 170,
+							detType: SiliconPoint,
+							tof: 1.4381
+						}
+						,{
+							position: [24.9782, 4.65907, 46.788],
+							positionOut: [24.9938, 4.66174, 46.8171],
+							lengthFromStart: 52.786,
+							detID: 170,
+							detType: SiliconPoint,
+							tof: 1.82388
+						}
+						{
+							"position": [34.8272, 6.31435, 64.86],
+							"positionOut": [35.3256, 6.39698, 65.7591],
+							"lengthFromStart": 73.4342,
+							"detID": 214,
+							"detType: "StsPoint",
+							"tof": 2.53734
+						}
+						,{
+							"position": [50.3956, 8.83202, 92.242],
+							"positionOut": [50.9201, 8.91425, 93.1411],
+							"lengthFromStart": 105.034,
+							"detID": 306,
+							"detType: "StsPoint",
+							"tof": 3.62922
+						}
+						,{
+							"position": [71.6584, 12.085, 127.612],
+							"positionOut": [72.2146, 12.1682, 128.511],
+							"lengthFromStart": 146.432,
+							"detID": 398,
+							"detType: "StsPoint",
+							"tof": 5.05974
+						}
+					]
+				}
+			]
+		}
+		,{
+			eventID: 8,
+			Vertex: [0.585432, -0.379697, 0.0222849],
+			tracks: [ 
+				{
+					trackID: 0,
+					motherID: -1,
+					vertex: [0.585432, -0.379697, 0.0222849],
+					PDG: 2212,
+					points: [ 
+						{
+							position: [1.05115, -4.50739, 15.0335],
+							positionOut: [1.05274, -4.51534, 15.0625],
+							lengthFromStart: 15.5768,
+							detID: 163,
+							detType: SiliconPoint,
+							tof: 0.861637
+						}
+						,{
+							position: [1.66302, -6.93321, 23.827],
+							positionOut: [1.66542, -6.94125, 23.856],
+							lengthFromStart: 24.7195,
+							detID: 170,
+							detType: SiliconPoint,
+							tof: 1.36859
+						}
+						,{
+							position: [3.6187, -11.7857, 41.222],
+							positionOut: [3.62284, -11.7939, 41.251],
+							lengthFromStart: 42.8867,
+							detID: 163,
+							detType: SiliconPoint,
+							tof: 2.37679
+						}
+						{
+							"position": [7.11969, -17.4096, 60.76],
+							"positionOut": [7.31549, -17.6645, 61.6591],
+							"lengthFromStart": 63.5213,
+							"detID": 216,
+							"detType: "StsPoint",
+							"tof": 3.52299
+						}
+						,{
+							"position": [17.3015, -27.7675, 96.342],
+							"positionOut": [17.6291, -28.0363, 97.2411],
+							"lengthFromStart": 101.982,
+							"detID": 308,
+							"detType: "StsPoint",
+							"tof": 5.66759
+						}
+						,{
+							"position": [28.8167, -36.1343, 123.512],
+							"positionOut": [29.2669, -36.422, 124.411],
+							"lengthFromStart": 132.671,
+							"detID": 400,
+							"detType: "StsPoint",
+							"tof": 7.38772
+						}
+					]
+				}
+			]
+		}
+		,{
+			eventID: 9,
+			Vertex: [0.548472, -0.84565, 0.00958589],
+			tracks: [ 
+				{
+					trackID: 0,
+					motherID: -1,
+					vertex: [0.548472, -0.84565, 0.00958589],
+					PDG: 2212,
+					points: [ 
+						{
+							position: [0.574837, -4.76779, 15.0335],
+							positionOut: [0.575559, -4.77537, 15.0625],
+							lengthFromStart: 15.5287,
+							detID: 163,
+							detType: SiliconPoint,
+							tof: 0.892282
+						}
+						,{
+							position: [0.894681, -7.07357, 23.827],
+							positionOut: [0.896169, -7.08122, 23.856],
+							lengthFromStart: 24.6254,
+							detID: 170,
+							detType: SiliconPoint,
+							tof: 1.41645
+						}
+						,{
+							position: [2.29393, -11.7315, 41.222],
+							positionOut: [2.29714, -11.7394, 41.251],
+							lengthFromStart: 42.69,
+							detID: 163,
+							detType: SiliconPoint,
+							tof: 2.45822
+						}
+						{
+							"position": [5.17638, -17.0948, 60.76],
+							"positionOut": [5.34445, -17.3423, 61.659],
+							"lengthFromStart": 63.1592,
+							"detID": 216,
+							"detType: "StsPoint",
+							"tof": 3.63998
+						}
+						,{
+							"position": [14.5938, -27.1161, 96.342],
+							"positionOut": [14.9058, -27.3724, 97.2411],
+							"lengthFromStart": 101.339,
+							"detID": 308,
+							"detType: "StsPoint",
+							"tof": 5.85553
+						}
+						,{
+							"position": [25.6755, -35.1262, 123.512],
+							"positionOut": [26.1139, -35.4028, 124.411],
+							"lengthFromStart": 131.773,
+							"detID": 400,
+							"detType: "StsPoint",
+							"tof": 7.63022
+						}
+					]
+				}
+			]
+		}
+	]
+}
